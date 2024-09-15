@@ -1,5 +1,3 @@
-# EV myths
-
 It's a curious thing that we must be prepared with counter arguments for owning a electric car. But here we are! The following information has been gathered from various sources -- references in each section -- and then paraphrased by me; and it basically serves as a personal crib sheet.
 
 The kindest thing we can do is quote facts with references.
