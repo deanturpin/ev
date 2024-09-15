@@ -1,0 +1,10 @@
+title: "EV myths"
+description: "turpin.dev"
+author: "Dean Turpin"
+
+theme: jekyll-theme-merlot
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
