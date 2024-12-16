@@ -1,10 +1,4 @@
 title: "EV myths"
 description: "... and tall tales"
 author: "Dean Turpin"
-
 theme: jekyll-theme-slate
-
-# Markdown settings
-# markdown: kramdown
-# kramdown:
-#   input: GFM

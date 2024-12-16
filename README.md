@@ -118,3 +118,6 @@ Queue photo of opencast mine. It's not without irony that the ICE proponents hig
 - [Is there any such thing as 'road tax'? (BBC)](https://www.bbc.co.uk/news/magazine-23694438)
 - [gov.uk: Band A removal](https://www.gov.uk/government/publications/introduction-of-vehicle-excise-duty-for-zero-emission-cars-vans-and-motorcycles-from-2025/introduction-of-vehicle-excise-duty-for-zero-emission-cars-vans-and-motorcycles-from-2025)
 - [EV myths: Anderson EV](https://andersen-ev.com/blogs/news/the-most-common-electric-car-myths)
+- [Tesla impact](https://www.tesla.com/en_gb/impact)
+- [ULEZ study](https://www.bath.ac.uk/publications/low-emission-zones-improve-air-quality-physical-health-and-mental-well-being/attachments/Low_Emission_Zones_improve_air_quality__physical_health_and_mental_well-being.pdf)
+- [Impact of mineral mining](https://www.theguardian.com/business/2023/dec/01/do-electric-cars-have-problem-mining-for-minerals)
